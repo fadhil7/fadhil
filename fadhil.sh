@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "FADHIL-SPAM"
+toilet -f slant --gay "Fadhil-Spam"
 sleep 1
 echo "\033[33;1m Tools Spam BY: FADHIL-RINTIK"
 sleep 1
